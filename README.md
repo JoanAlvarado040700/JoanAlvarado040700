@@ -3,8 +3,20 @@
 ### Hello world 👋, I'm [Joan.S](https://github.com/JoanAlvarado040700) 👨‍💻
 
 <br/>
+<img align="right" height="400px" style="margin-right:40px; margin-left:40px" alt="Python" src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" />
 
-  <img align="right" height="400px" style="margin-right:40px; margin-left:40px" alt="Python" src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" />
+* I'm  🚀 from Nicaragua.
+* 💬 I am a backend developer and have other skills
+* 👨‍💻 # Self-taught developer
+* 👨‍💻 # I like to play to clear my mind
+* I love! 😺 !! the cats! 💙 the tacos and learn more about development📱
+* 🌱 Skills: ** Java💛, Python 💙, Ionic💜, Go ❤️ **
+* I have some experience in android development📱
+* 💬 Ask me about Android development, web development or machine learning👾 and not about design👎
+* 👯 I'm learning more about the Framework
+* 🥅 Goals for 2021: Learn to develop APis, improve on my front end, improve on TypeScrip and JavaScrip
+* 🌱 I love learning new things 
+
 <br/>
 
 
