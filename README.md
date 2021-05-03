@@ -11,18 +11,6 @@ I'm  🚀 from Nicaragua.
 
 
 ### 🛠️ Languages and Tools:
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![MySql](https://img.shields.io/badge/-MySql-black?style=flat-square&logo=mysql)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
-
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
-![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=Firebase)
-
-
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
 [![Kotlin](https://img.shields.io/badge/Kotlin-F6891F?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]()
 [![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
@@ -53,6 +41,7 @@ I'm  🚀 from Nicaragua.
        
 ## Contact me:
 [![Email](https://img.shields.io/badge/sevaslarios@gmail.com-my_personal_email_(slow_response)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:sevaslarios@gmail.com)
+
 
 
 
