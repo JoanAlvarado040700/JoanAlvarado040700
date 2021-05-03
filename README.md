@@ -5,8 +5,6 @@
 <br/>
 
   <img align="right" height="400px" style="margin-right:40px; margin-left:40px" alt="Python" src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" />
-<p>
-I'm  🚀 from Nicaragua.
 <br/>
 
 
@@ -27,6 +25,7 @@ I'm  🚀 from Nicaragua.
 
 
 
+<h3 align="center">GITHUB STATS<hr/></h3>
 
 <p align="center">
   <a href="https://github.com/JoanAlvarado040700">
