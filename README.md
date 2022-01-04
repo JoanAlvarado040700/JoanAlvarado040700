@@ -10,7 +10,7 @@
 * 👨‍💻 # Self-taught developer
 * 👨‍💻 # I like to play to clear my mind
 * I love! 😺 !! the cats! 💙 the tacos and learn more about development📱
-* 🌱 Skills: ** Java💛, Python 💙, Ionic💜, Go ❤️ **
+* 🌱 Skills: ** Java💛, Python 💙 **
 * I have some experience in android development📱
 * 💬 Ask me about Android development, web development or machine learning👾 and not about design👎
 * 👯 I'm learning more about the Framework
