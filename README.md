@@ -21,7 +21,7 @@
 
 
 ### 🛠️ Languages and Tools:
-[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
+[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=green&labelColor=101010)]()
 [![Python](https://img.shields.io/badge/Python-Blue1F?style=for-the-badge&logo=python&logoColor=blue&labelColor=101010)]()
 [![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
